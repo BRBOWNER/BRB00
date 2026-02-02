@@ -1,0 +1,14 @@
+{
+  "_id": {
+    "$oid": "67ee52ce642e7ac212fd1bdf"
+  },
+  "userId": *********,
+  "username": "**************",
+  "firstName": "🇮🇳Fuego[i]",
+  "isAdmin": true,
+  "favoriteSongs": [],
+  "playHistory": [],
+  "__v": 0
+}
+
+Sql BluePrint
